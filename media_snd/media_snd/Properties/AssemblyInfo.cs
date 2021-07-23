@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("media_snd")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Clutt4 Sound helper")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Clutter Tech")]
 [assembly: AssemblyProduct("media_snd")]
-[assembly: AssemblyCopyright("Copyright ©  2021")]
+[assembly: AssemblyCopyright("Copyright ©  2021 Clutter Tech")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
