@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("MBR")]
 [assembly: AssemblyDescription("Clutt4 MBR helper")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Clutter Tech")]
 [assembly: AssemblyProduct("Clutt4")]
-[assembly: AssemblyCopyright("Copyright ©  2021")]
+[assembly: AssemblyCopyright("Copyright ©  2021 Clutter Tech")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
