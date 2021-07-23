@@ -9,7 +9,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyDescription("Clutt4 Sound helper")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Clutter Tech")]
-[assembly: AssemblyProduct("media_snd")]
+[assembly: AssemblyProduct("Clutt4")]
 [assembly: AssemblyCopyright("Copyright ©  2021 Clutter Tech")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
